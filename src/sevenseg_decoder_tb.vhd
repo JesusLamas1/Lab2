@@ -1,7 +1,5 @@
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
-use IEEE.STD_LOGIC_TEXTIO.ALL;
-use std.textio.ALL;
 use ieee.numeric_std.all;
 
 
